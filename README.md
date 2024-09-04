@@ -22,38 +22,45 @@ Check out a live demo of the game [here](https://github.com/gitChandan123/rock-p
 Responsive Design: The game is fully responsive and works on both desktop and mobile devices.
 Real-Time Updates: The game updates the score and displays the result of each round in real-time.
 Simple and Clean UI: A minimalistic design that focuses on the gameplay.
-How to Play
-Select one of the three options: Rock, Paper, or Scissors.
-The computer will randomly select one of the options.
-The winner is determined by the following rules:
-Rock beats Scissors.
-Scissors beat Paper.
-Paper beats Rock.
-The result of the round is displayed, and the score is updated.
-Installation
+
+## How to Play
+* Select one of the three options: Rock, Paper, or Scissors.
+* The computer will randomly select one of the options.
+* The winner is determined by the following rules:
+  - Rock beats Scissors.
+  - Scissors beat Paper.
+  - Paper beats Rock.
+* The result of the round is displayed, and the score is updated.
+## Installation
 To run this game locally, follow these steps:
 
-Clone the Repository:
-bash
+* ### Clone the Repository:
 Copy code
-git clone https://github.com/your-username/rock-paper-scissors-game.git
-Navigate to the Project Directory:
-bash
+```
+git@github.com:gitChandan123/rock-paper-scissor-game.git
+```
+* ### Navigate to the Project Directory:
+
 Copy code
+```
 cd rock-paper-scissors-game
-Open the index.html File: Open the index.html file in your preferred web browser.
-Usage
+```
+* Open the `index.html` File: Open the index.html file in your preferred web browser.
+  
+## Usage
 Once the game is running, you can start playing immediately. Click Rock, Paper, or Scissors to see if you can beat the computer!
 
-Contributing
-Contributions are welcome! Feel free to create a pull request if you have suggestions or improvements. Please ensure your code adheres to the following guidelines:
+## Contributing
+Contributions are welcome! 
+Feel free to create a pull request if you have suggestions or improvements. Please ensure your code adheres to the following guidelines:
 
-Follow the existing code style.
-Test your changes thoroughly before submitting.
-Include a descriptive commit message.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+- Follow the existing code style.
+- Test your changes thoroughly before submitting.
+- Include a descriptive commit message.
+  
+## License
+This project is licensed under the [MIT]() License - see the LICENSE file for details.
 
-Contact
-For any inquiries or issues, please feel free to contact me at your.email@example.com.
+## Contact
+For any inquiries or issues, please feel free to contact me at [mail](chandanvatsa321@gmail.com).
 
