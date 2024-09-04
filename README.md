@@ -1,5 +1,5 @@
 # rock-paper-scissor-game
-#Overview
+#  Overview
 Welcome to the Rock-Paper-Scissors Game! This is a simple web-based implementation of the classic hand game that you can play against the computer. The game is built using HTML, CSS, and JavaScript.
 
 Table of Contents
