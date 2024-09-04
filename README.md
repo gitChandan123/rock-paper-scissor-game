@@ -33,7 +33,7 @@ Check out a live demo of the game [here](https://github.com/gitChandan123/rock-p
 ## Installation
 To run this game locally, follow these steps:
 
-1.#### Clone the Repository:
+1. #### Clone the Repository:
 Copy code
 ```
 bash
