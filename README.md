@@ -14,7 +14,7 @@ Contact
 
 ##  Demo
 
-Check out a live demo of the game here [https://cat-fact.herokuapp.com/facts].
+Check out a live demo of the game [here](https://github.com/gitChandan123/rock-paper-scissor-game/edit/main/README.md).
 
 ## Features
 Interactive Gameplay: Play against the computer in a fun and interactive way.
