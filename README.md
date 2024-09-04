@@ -1,8 +1,8 @@
 # rock-paper-scissor-game
-#  Overview
+##  Overview
 Welcome to the Rock-Paper-Scissors Game! This is a simple web-based implementation of the classic hand game that you can play against the computer. The game is built using HTML, CSS, and JavaScript.
 
-Table of Contents
+#  Table of Contents
 Demo
 Features
 How to Play
@@ -11,10 +11,12 @@ Usage
 Contributing
 License
 Contact
-Demo
-Check out a live demo of the game here.
 
-Features
+##  Demo
+
+Check out a live demo of the game here [https://cat-fact.herokuapp.com/facts].
+
+## Features
 Interactive Gameplay: Play against the computer in a fun and interactive way.
 Responsive Design: The game is fully responsive and works on both desktop and mobile devices.
 Real-Time Updates: The game updates the score and displays the result of each round in real-time.
