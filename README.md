@@ -23,30 +23,30 @@ Check out a live demo of the game [here](https://github.com/gitChandan123/rock-p
 - Simple and Clean UI: A minimalistic design that focuses on the gameplay.
 
 ## How to Play
-* Select one of the three options: Rock, Paper, or Scissors.
-* The computer will randomly select one of the options.
-* The winner is determined by the following rules:
+1. Select one of the three options: Rock, Paper, or Scissors.
+2. The computer will randomly select one of the options.
+3. The winner is determined by the following rules:
   - Rock beats Scissors.
   - Scissors beat Paper.
   - Paper beats Rock.
-* The result of the round is displayed, and the score is updated.
+4. The result of the round is displayed, and the score is updated.
 ## Installation
 To run this game locally, follow these steps:
 
-* #### Clone the Repository:
+1.#### Clone the Repository:
 Copy code
 ```
 bash
 git@github.com:gitChandan123/rock-paper-scissor-game.git
 ```
-* #### Navigate to the Project Directory:
+2. #### Navigate to the Project Directory:
 
 Copy code
 ```
 bash
 cd rock-paper-scissors-game
 ```
-* Open the `index.html File:` Open the `index.html file` in your preferred web browser.
+3. Open the `index.html File:` Open the `index.html file` in your preferred web browser.
   
 ## Usage
 Once the game is running, you can start playing immediately. Click Rock, Paper, or Scissors to see if you can beat the computer!
