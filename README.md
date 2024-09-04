@@ -37,15 +37,17 @@ To run this game locally, follow these steps:
 * #### Clone the Repository:
 Copy code
 ```
+bash
 git@github.com:gitChandan123/rock-paper-scissor-game.git
 ```
 * #### Navigate to the Project Directory:
 
 Copy code
 ```
+bash
 cd rock-paper-scissors-game
 ```
-* Open the `index.html` File: Open the index.html file in your preferred web browser.
+* Open the `index.html File:` Open the `index.html file` in your preferred web browser.
   
 ## Usage
 Once the game is running, you can start playing immediately. Click Rock, Paper, or Scissors to see if you can beat the computer!
